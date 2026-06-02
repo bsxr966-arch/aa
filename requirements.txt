@@ -4,3 +4,4 @@ nest_asyncio
 requests
 beautifulsoup4
 httpx
+python-telegram-bot==21.10
